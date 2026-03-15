@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CryptoNova — Live Crypto Tracker
 
 A full-stack crypto market tracker powered by the CoinGecko public API.
