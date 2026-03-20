@@ -48,4 +48,3 @@ Backend                  Python, Flask
 Frontend                 HTML, CSS, JavaScript
 Charts                   Chart.js
 Data                     CoinGecko Public API
->>>>>>> ae3e84fb3ca0562112029782c673542fff0ea0ab
